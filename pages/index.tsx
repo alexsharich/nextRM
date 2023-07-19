@@ -8,7 +8,7 @@ const Home: NextPageWithLayout = () => (
         <Image src="/next.svg" alt="Next.js Logo" width={180} height={37} priority />
     </PageWrapper>
 );
-//some comment
+//O_O
 
 Home.getLayout = getLayout;
 export default Home;
